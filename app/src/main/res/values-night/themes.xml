@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CalculatorApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="mainBackgraundColor">@color/light_backgraund_color</item>
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <style name="Theme.CalculatorApp" parent="Base.Theme.CalculatorApp" >
+        <item name="mainBackgraundColor">@color/dark_backgraund_color</item>
+        <item name="android:statusBarColor">@color/dark_backgraund_color</item>
+        <item name="buttonBackgraundColor">@color/dark_blue</item>
+        <item name="theme_icon">@drawable/theme_icon_2</item>
+        <item name="calculatorBackgraundColor">@drawable/dark_calculator_backgraund</item>
+        <item name="textColor">@color/white</item>
+
+    </style>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="mainBackgraundColor" format="reference|color" />
+    <attr name="calculatorBackgraundColor" format="reference|color" />
+    <attr name="buttonBackgraundColor" format="reference|color" />
+    <attr name="theme_icon" format="reference" />
+    <attr name="textColor" format="reference|color" />
+
+</resources>
